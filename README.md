@@ -15,7 +15,7 @@ Klimate is a sleek and responsive weather forecasting application built using Re
 
 ## Live Demo
 
-Check out the live app: [Klimate](https://movieflix-project.netlify.app)
+Check out the live app: [Klimate](https://klimateorg.netlify.app/)
 
 ---
 
